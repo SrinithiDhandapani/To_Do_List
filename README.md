@@ -1,3 +1,7 @@
+# This project is a part of a hackathon run by  https://www.katomaran.com
+
+---
+
 # TickMate 🕒
 
 TickMate is a powerful and intuitive task management app built using Flutter. Designed for productivity and simplicity, it helps users efficiently manage their daily tasks and boost focus through a clean and modern user experience.
