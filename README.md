@@ -36,7 +36,7 @@ flutter pub run build_runner build
 flutter run 
 ```
 ### 📦 APK Download
-A working debug APK can be downloaded here:  
+A working debug APK can be downloaded here:  https://drive.google.com/file/d/1-w4_7gbW5tkK4-AE1rmSn7nxY9v-QQUH/view?usp=drive_link
 
 ### 🛠️ Architecture
 TickMate follows a Provider + MVVM (Model-View-ViewModel) architecture ensuring clean code separation and scalability.
@@ -44,7 +44,7 @@ TickMate follows a Provider + MVVM (Model-View-ViewModel) architecture ensuring 
 <img width="512" height="512" alt="Architecture" src="https://github.com/user-attachments/assets/5dbab847-77d5-41fe-884f-5367df793b6e" />
 
 ### 📹 App Demo
-Link : 
+Link : https://drive.google.com/drive/folders/1OXkYMpS-tQq_if0QguRxf4ACIq1ponRz?usp=drive_link
 
 ### 🧠 Assumptions
  - Users will have an internet connection to sign in using Google.
