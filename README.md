@@ -35,49 +35,49 @@ flutter pub get
 flutter pub run build_runner build
 flutter run 
 ```
-📦 APK Download
+###📦 APK Download
 A working debug APK can be downloaded here:  
 
-🛠️ Architecture
+###🛠️ Architecture
 TickMate follows a Provider + MVVM (Model-View-ViewModel) architecture ensuring clean code separation and scalability.
 
 <img width="512" height="512" alt="Architecture" src="https://github.com/user-attachments/assets/5dbab847-77d5-41fe-884f-5367df793b6e" />
 
-📹 App Demo
+### 📹 App Demo
 Link : 
 
-🧠 Assumptions
-Users will have an internet connection to sign in using Google.
+### 🧠 Assumptions
+ - Users will have an internet connection to sign in using Google.
 
-The app is initially built for Android; iOS support can be added later.
+ - The app is initially built for Android; iOS support can be added later.
 
-Offline support is handled using Hive for task persistence.
+ - Offline support is handled using Hive for task persistence.
 
-Since the requirements didn't specify notifications or reminders, those were omitted for MVP scope.
+ - Since the requirements didn't specify notifications or reminders, those were omitted for MVP scope.
 
-🎨 UI and Design
-Built with Flutter and Material Design
+###🎨 UI and Design
+ - Built with Flutter and Material Design
 
-Responsive layout for phones and tablets
+ - Responsive layout for phones and tablets
 
-Color palette optimized for accessibility
+ - Color palette optimized for accessibility
 
-Follows design best practices for spacing, shadows, contrast, and interaction feedback
+ - Follows design best practices for spacing, shadows, contrast, and interaction feedback
 
- 🧰 Packages Used
+###🧰 Packages Used
 provider: State management
 
-firebase_auth + google_sign_in: Authentication
+ - firebase_auth + google_sign_in: Authentication
 
-hive + hive_flutter: Local storage
+ - hive + hive_flutter: Local storage
 
-flutter_slidable: Swipe actions
+ - flutter_slidable: Swipe actions
 
-intl: Date formatting
+ - intl: Date formatting
 
-lottie: Animations
+ - lottie: Animations
 
- 🧠 Prompting with AI
+ ###🧠 Prompting with AI
  - AI tools like ChatGPT were used during development to assist with:
 
  - UI layout suggestions
@@ -86,7 +86,7 @@ lottie: Animations
 
  - Design pattern structuring
 
- 🏁 Final Notes
+ ### 🏁 Final Notes
  - Code is modular, well-documented, and scalable.
 
  - UI design was given high importance with animations and smooth transitions.
