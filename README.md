@@ -35,10 +35,10 @@ flutter pub get
 flutter pub run build_runner build
 flutter run 
 ```
-###📦 APK Download
+### 📦 APK Download
 A working debug APK can be downloaded here:  
 
-###🛠️ Architecture
+### 🛠️ Architecture
 TickMate follows a Provider + MVVM (Model-View-ViewModel) architecture ensuring clean code separation and scalability.
 
 <img width="512" height="512" alt="Architecture" src="https://github.com/user-attachments/assets/5dbab847-77d5-41fe-884f-5367df793b6e" />
@@ -55,7 +55,7 @@ Link :
 
  - Since the requirements didn't specify notifications or reminders, those were omitted for MVP scope.
 
-###🎨 UI and Design
+### 🎨 UI and Design
  - Built with Flutter and Material Design
 
  - Responsive layout for phones and tablets
@@ -64,7 +64,7 @@ Link :
 
  - Follows design best practices for spacing, shadows, contrast, and interaction feedback
 
-###🧰 Packages Used
+### 🧰 Packages Used
 provider: State management
 
  - firebase_auth + google_sign_in: Authentication
@@ -77,7 +77,7 @@ provider: State management
 
  - lottie: Animations
 
- ###🧠 Prompting with AI
+ ### 🧠 Prompting with AI
  - AI tools like ChatGPT were used during development to assist with:
 
  - UI layout suggestions
