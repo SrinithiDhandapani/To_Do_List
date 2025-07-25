@@ -41,7 +41,7 @@ A working debug APK can be downloaded here:
 🛠️ Architecture
 TickMate follows a Provider + MVVM (Model-View-ViewModel) architecture ensuring clean code separation and scalability.
 
-<img width="1024" height="1024" alt="Architecture" src="https://github.com/user-attachments/assets/5dbab847-77d5-41fe-884f-5367df793b6e" />
+<img width="512" height="512" alt="Architecture" src="https://github.com/user-attachments/assets/5dbab847-77d5-41fe-884f-5367df793b6e" />
 
 📹 App Demo
 Link : 
