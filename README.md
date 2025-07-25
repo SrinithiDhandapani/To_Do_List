@@ -46,7 +46,7 @@ TickMate follows a Provider + MVVM (Model-View-ViewModel) architecture ensuring 
 📹 App Demo
 Link : 
 
-##🧠 Assumptions
+🧠 Assumptions
 Users will have an internet connection to sign in using Google.
 
 The app is initially built for Android; iOS support can be added later.
@@ -55,7 +55,7 @@ Offline support is handled using Hive for task persistence.
 
 Since the requirements didn't specify notifications or reminders, those were omitted for MVP scope.
 
-## 🎨 UI and Design
+🎨 UI and Design
 Built with Flutter and Material Design
 
 Responsive layout for phones and tablets
@@ -64,7 +64,7 @@ Color palette optimized for accessibility
 
 Follows design best practices for spacing, shadows, contrast, and interaction feedback
 
-## 🧰 Packages Used
+ 🧰 Packages Used
 provider: State management
 
 firebase_auth + google_sign_in: Authentication
@@ -77,7 +77,7 @@ intl: Date formatting
 
 lottie: Animations
 
-## 🧠 Prompting with AI
+ 🧠 Prompting with AI
  - AI tools like ChatGPT were used during development to assist with:
 
  - UI layout suggestions
@@ -86,7 +86,7 @@ lottie: Animations
 
  - Design pattern structuring
 
-## 🏁 Final Notes
+ 🏁 Final Notes
  - Code is modular, well-documented, and scalable.
 
  - UI design was given high importance with animations and smooth transitions.
