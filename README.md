@@ -41,16 +41,7 @@ A working debug APK can be downloaded here:
 🛠️ Architecture
 TickMate follows a Provider + MVVM (Model-View-ViewModel) architecture ensuring clean code separation and scalability.
 
-lib/
-├── models/         # Data models (e.g., Task)
-├── providers/      # State management using Provider
-├── screens/        # UI screens like Home, Auth
-├── services/       # Firebase auth and Google Sign-In services
-├── widgets/        # Reusable UI components
-├── utils/          # Theme and utility helpers
-└── main.dart       # Entry point
-
-
+<img width="1024" height="1024" alt="Architecture" src="https://github.com/user-attachments/assets/5dbab847-77d5-41fe-884f-5367df793b6e" />
 
 📹 App Demo
 Link : 
@@ -95,14 +86,10 @@ lottie: Animations
 
  - Design pattern structuring
 
-Documentation generation
-
-- All prompts and queries have been retained for review and display during the final round.
-
 ## 🏁 Final Notes
  - Code is modular, well-documented, and scalable.
 
-UI design was given high importance with animations and smooth transitions.
+ - UI design was given high importance with animations and smooth transitions.
 
  - Ready for extension with notifications, priorities, and calendar views.
 
