@@ -77,16 +77,8 @@ provider: State management
 
  - lottie: Animations
 
- ### 🧠 Prompting with AI
- - AI tools like ChatGPT were used during development to assist with:
 
- - UI layout suggestions
-
- - Firebase integration steps
-
- - Design pattern structuring
-
- ### 🏁 Final Notes
+### 🏁 Final Notes
  - Code is modular, well-documented, and scalable.
 
  - UI design was given high importance with animations and smooth transitions.
